@@ -1,0 +1,38 @@
+[
+    {
+        "title": "What does she say about street food?",
+        "answer1": "She loves it",
+        "answer2": "She hates it",
+        "answer3": "She never eats it",
+        "right_answer": "She loves it"
+    },
+    {
+        "title": "What is government doing with street food?",
+        "answer1": "Trying to promote it",
+        "answer2": "Trying to stop it",
+        "answer3": "ignoring it",
+        "right_answer": "Trying to stop it"
+    },
+    {
+        "title": "How can you clean you spoon?",
+        "answer1": "Dip it in water",
+        "answer2": "Spray cleaner on it",
+        "answer3": "wipe it on a towel",
+        "right_answer": "Dip it in water"
+    },
+    {
+        "title": "She tinks street food is not dirty because",
+        "answer1": "The food is never dirty",
+        "answer2": "You can see the kitchen",
+        "answer3": "the food is overcooked",
+        "right_answer": "You can see the kitchen"
+    },
+    {
+        "title": "How do the two speakers feel about street food?",
+        "answer1": "They agree about it/",
+        "answer2": "They disagree about it",
+        "answer3": "They do not say",
+        "right_answer": "They agree about it/"
+    }
+
+]
