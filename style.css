@@ -104,3 +104,8 @@ button{
     padding: 15px;
     background-color: #FFF;
 }
+@media (max-width:767px) {
+    .quiz-app{
+        width: 100%;
+    }
+}
